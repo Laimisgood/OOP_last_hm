@@ -1,0 +1,6 @@
+июл. 26, 2023 12:18:15 AM ComplexCalculator calculate
+INFO: Operation: AdditionStrategy, Result: 6.0 + 8.0i
+июл. 26, 2023 12:18:15 AM ComplexCalculator calculate
+INFO: Operation: MultiplicationStrategy, Result: -7.0 + 22.0i
+июл. 26, 2023 12:18:15 AM ComplexCalculator calculate
+INFO: Operation: DivisionStrategy, Result: 0.5609756097560976 + 0.04878048780487805i
